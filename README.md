@@ -1,3 +1,4 @@
+![Image](http://oyster.ignimgs.com/wordpress/stg.ign.com/2012/10/Angry-Birds-Trilogy-Graphical-Header-for-Review.jpg)
 ## Project idea: Video Game Sales Analysis and  Prediction
 I will be using Kaggle data available [here](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) to analyze and predict the ratings of video games based on 16 features. The dataset has 16,719 records, hence I will be using pandas and other visualization libraries to analyze the dataset and predict using Machine Learning models available through scientific libraries like scikit-learn, etc.
 
