@@ -1,5 +1,5 @@
 ## Project idea: Video Game Sales Analysis and  Prediction
-I will be using Kaggle data available here to analyze and predict the ratings of video games based on 16 features. The dataset has 16,719 records, hence I will be using pandas and other visualization libraries to analyze the dataset and predict using Machine Learning models available through scientific libraries like scikit-learn, etc.
+I will be using Kaggle data available [here](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) to analyze and predict the ratings of video games based on 16 features. The dataset has 16,719 records, hence I will be using pandas and other visualization libraries to analyze the dataset and predict using Machine Learning models available through scientific libraries like scikit-learn, etc.
 
 Tasks in the project:
 - Data pre-processing
@@ -89,3 +89,13 @@ Planned tasks:
 Planned tasks:
 - Make a video for submission
 - Prepare a report of the results
+
+## Results:
+
+Dataset: [Kaggle](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+
+**Video Link:** [Panopto](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=68ff4e6b-f400-4f56-b773-af6300230b43&start=0)
+
+**How to run project?** Install requirements specified in requirements.txt and run using jupyter
+
+In case of numeric_only=True error, it is due to different version of pandas. Please use requirements.txt to install requirements. Alternatively, please remove numeric_only=True parameter.
